@@ -1,0 +1,43 @@
+http://www.cmegroup.com/trading/interest-rates/us-treasury/10-year-us-treasury-note_contract_specifications.html
+10-year
+Points ($1,000) and halves of 1/32 of a point. For example, 126-16 
+represents 126 16/32 and 126-165 represents 126 16.5/32. Par is on the basis of 100 points.
+http://www.cmegroup.com/trading/interest-rates/us-treasury/5-year-us-treasury-note_contract_specifications.html
+5-year
+Points ($1,000) and quarters of 1/32 of a point. For example, 119-16 represents 
+119 16/32, 119-162 represents 119 16.25/32, 119-165 represents 119 16.5/32, 
+and 119-167 represents 119 16.75/32. Par is on the basis of 100 points.
+
+--- Spread is in terms of ten year: B = Ten Bid - Five Ask // A = Ten Ask - Five Bid ---
+CONTR DATE TIME  B/A 	QTY  PRICE				SPREAD
+ZFU11 0502 1110.0 B 	1 	117.34375			10A - 5B
+ZNU11 0502 1110.0 A 	46 	119.890625			ASK: 2.546875
+-------
+ZFU11 0502 1110.0 A 	8 	117.3671875			10B - 5A
+ZNU11 0502 1110.0 B 	14 	119.859375			BID: 2.4921875
+
+TODO override TimeSorterFilter's setSource!
+Name of treasury applied ==> so there would be a treasury pricing engine
+	- treasury name applied to TradeData
+	- treasury data sent to treasury pricing engine
+	- position manager sorts and saves by treasury
+
+ZF 	five
+ZN 	ten
+M 	june
+U	sep
+
+http://sfdv3006.wikidot.com/file-sort-filter
+https://code.google.com/p/pipesandfilters/source/browse/trunk/pipesandfilters/#pipesandfilters%2Fsrc%2Fpipes%2Fand%2Ffilters
+
+
+cd Desktop
+C:\Ruby193\bin\ruby.exe preprocess.rb 
+	(preprocess was on desktop)
+	this editor adds 4 instead of 2 spaces for .rb (not good)
+
+	the Controller will instantiate pipes and filters
+
+add ordering of tradeData to FormattedDataFilter (i.e., I'm currently not guaranteeing that i edit the proper data)
+could create an object that has tradedata plus an incremented counter so we can order the adding
+

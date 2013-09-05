@@ -1,0 +1,1432 @@
+Using Martingale Strategy
+
+_________________________________________________________
+Day of month: 2
+Time:      45.5
+DeltaPNL:  -2.6171875
+Position:  1
+Bought ZN: 121.0
+Sold ZF:   -118.3828125
+
+Time:      303.0
+DeltaPNL:  2.6484375
+Position:  0
+Sold ZN:   -121.078125
+Bought ZF: 118.4296875
+
+Time:      303.5
+DeltaPNL:  2.65625
+Position:  -1
+Sold ZN:   -121.09375
+Bought ZF: 118.4375
+
+Time:      339.5
+DeltaPNL:  -2.609375
+Position:  0
+Bought ZN: 121.03125
+Sold ZF:   -118.421875
+
+Time:      340.0
+DeltaPNL:  -2.609375
+Position:  1
+Bought ZN: 121.03125
+Sold ZF:   -118.421875
+
+Time:      559.5
+DeltaPNL:  2.6328125
+Position:  0
+Sold ZN:   -121.046875
+Bought ZF: 118.4140625
+
+Time:      600.0
+DeltaPNL:  2.6328125
+Position:  -1
+Sold ZN:   -121.046875
+Bought ZF: 118.4140625
+
+Time:      630.0
+DeltaPNL:  -2.6015625
+Position:  0
+Bought ZN: 120.96875
+Sold ZF:   -118.3671875
+
+Time:      630.5
+DeltaPNL:  -2.6015625
+Position:  1
+Bought ZN: 120.96875
+Sold ZF:   -118.3671875
+
+Time:      640.5
+DeltaPNL:  -5.140625
+Position:  3
+Bought ZN: 241.78125
+Sold ZF:   -236.640625
+
+Time:      723.5
+DeltaPNL:  7.8984375
+Position:  0
+Sold ZN:   -363.140625
+Bought ZF: 355.2421875
+
+The profit for day 2 was: 289
+The profit for the month up to and including today is: 289
+
+
+_________________________________________________________
+Day of month: 3
+Time:      57.5
+DeltaPNL:  -2.7734375
+Position:  1
+Bought ZN: 121.3125
+Sold ZF:   -118.5390625
+
+Time:      245.5
+DeltaPNL:  2.8125
+Position:  0
+Sold ZN:   -121.375
+Bought ZF: 118.5625
+
+Time:      246.0
+DeltaPNL:  2.8125
+Position:  -1
+Sold ZN:   -121.375
+Bought ZF: 118.5625
+
+Time:      301.5
+DeltaPNL:  -2.7734375
+Position:  0
+Bought ZN: 121.25
+Sold ZF:   -118.4765625
+
+Time:      302.0
+DeltaPNL:  -2.7734375
+Position:  1
+Bought ZN: 121.25
+Sold ZF:   -118.4765625
+
+Time:      324.5
+DeltaPNL:  2.8046875
+Position:  0
+Sold ZN:   -121.3125
+Bought ZF: 118.5078125
+
+Time:      325.0
+DeltaPNL:  2.8046875
+Position:  -1
+Sold ZN:   -121.3125
+Bought ZF: 118.5078125
+
+Time:      401.5
+DeltaPNL:  -2.7734375
+Position:  0
+Bought ZN: 121.25
+Sold ZF:   -118.4765625
+
+Time:      402.0
+DeltaPNL:  -2.7734375
+Position:  1
+Bought ZN: 121.25
+Sold ZF:   -118.4765625
+
+Time:      509.5
+DeltaPNL:  2.796875
+Position:  0
+Sold ZN:   -121.3125
+Bought ZF: 118.515625
+
+Time:      510.0
+DeltaPNL:  2.796875
+Position:  -1
+Sold ZN:   -121.3125
+Bought ZF: 118.515625
+
+Time:      637.5
+DeltaPNL:  5.671875
+Position:  -3
+Sold ZN:   -242.84375
+Bought ZF: 237.171875
+
+Time:      945.5
+DeltaPNL:  -8.6015625
+Position:  0
+Bought ZN: 364.359375
+Sold ZF:   -355.7578125
+
+The profit for day 3 was: 31
+The profit for the month up to and including today is: 320
+
+
+_________________________________________________________
+Day of month: 4
+Time:      49.5
+DeltaPNL:  2.921875
+Position:  -1
+Sold ZN:   -121.578125
+Bought ZF: 118.65625
+
+Time:      108.5
+DeltaPNL:  -2.890625
+Position:  0
+Bought ZN: 121.53125
+Sold ZF:   -118.640625
+
+Time:      109.0
+DeltaPNL:  -2.890625
+Position:  1
+Bought ZN: 121.53125
+Sold ZF:   -118.640625
+
+Time:      222.5
+DeltaPNL:  -5.71875
+Position:  3
+Bought ZN: 242.78125
+Sold ZF:   -237.0625
+
+Time:      631.5
+DeltaPNL:  8.6484375
+Position:  0
+Sold ZN:   -364.125
+Bought ZF: 355.4765625
+
+Time:      632.0
+DeltaPNL:  2.8828125
+Position:  -1
+Sold ZN:   -121.375
+Bought ZF: 118.4921875
+
+Time:      701.5
+DeltaPNL:  -2.875
+Position:  0
+Bought ZN: 121.328125
+Sold ZF:   -118.453125
+
+The profit for day 4 was: 78
+The profit for the month up to and including today is: 398
+
+
+_________________________________________________________
+Day of month: 5
+Time:      53.5
+DeltaPNL:  -2.9921875
+Position:  1
+Bought ZN: 121.609375
+Sold ZF:   -118.6171875
+
+Time:      200.5
+DeltaPNL:  3.0234375
+Position:  0
+Sold ZN:   -121.671875
+Bought ZF: 118.6484375
+
+Time:      201.0
+DeltaPNL:  3.0234375
+Position:  -1
+Sold ZN:   -121.671875
+Bought ZF: 118.6484375
+
+Time:      225.5
+DeltaPNL:  6.09375
+Position:  -3
+Sold ZN:   -243.4375
+Bought ZF: 237.34375
+
+Time:      541.5
+DeltaPNL:  -9.0234375
+Position:  0
+Bought ZN: 365.203125
+Sold ZF:   -356.1796875
+
+Time:      542.0
+DeltaPNL:  -3.0078125
+Position:  1
+Bought ZN: 121.734375
+Sold ZF:   -118.7265625
+
+Time:      552.5
+DeltaPNL:  3.0390625
+Position:  0
+Sold ZN:   -121.765625
+Bought ZF: 118.7265625
+
+Time:      553.0
+DeltaPNL:  3.0390625
+Position:  -1
+Sold ZN:   -121.765625
+Bought ZF: 118.7265625
+
+Time:      611.5
+DeltaPNL:  -3.0078125
+Position:  0
+Bought ZN: 121.734375
+Sold ZF:   -118.7265625
+
+Time:      612.0
+DeltaPNL:  -3.0078125
+Position:  1
+Bought ZN: 121.734375
+Sold ZF:   -118.7265625
+
+Time:      626.0
+DeltaPNL:  3.0390625
+Position:  0
+Sold ZN:   -121.765625
+Bought ZF: 118.7265625
+
+Time:      626.5
+DeltaPNL:  3.0390625
+Position:  -1
+Sold ZN:   -121.765625
+Bought ZF: 118.7265625
+
+Time:      648.0
+DeltaPNL:  6.140625
+Position:  -3
+Sold ZN:   -243.6875
+Bought ZF: 237.546875
+
+Time:      945.5
+DeltaPNL:  -9.375
+Position:  0
+Bought ZN: 365.90625
+Sold ZF:   -356.53125
+
+The profit for day 5 was: 23
+The profit for the month up to and including today is: 421
+
+
+_________________________________________________________
+Day of month: 6
+Time:      45.5
+DeltaPNL:  -3.1796875
+Position:  1
+Bought ZN: 121.9375
+Sold ZF:   -118.7578125
+
+Time:      123.5
+DeltaPNL:  -6.3125
+Position:  3
+Bought ZN: 243.8125
+Sold ZF:   -237.5
+
+Time:      312.5
+DeltaPNL:  9.609375
+Position:  0
+Sold ZN:   -366.09375
+Bought ZF: 356.484375
+
+Time:      313.0
+DeltaPNL:  3.203125
+Position:  -1
+Sold ZN:   -122.03125
+Bought ZF: 118.828125
+
+Time:      358.5
+DeltaPNL:  6.46875
+Position:  -3
+Sold ZN:   -244.1875
+Bought ZF: 237.71875
+
+Time:      450.5
+DeltaPNL:  -9.515625
+Position:  0
+Bought ZN: 366.0
+Sold ZF:   -356.484375
+
+Time:      451.0
+DeltaPNL:  -3.171875
+Position:  1
+Bought ZN: 122.0
+Sold ZF:   -118.828125
+
+Time:      453.5
+DeltaPNL:  3.203125
+Position:  0
+Sold ZN:   -122.046875
+Bought ZF: 118.84375
+
+Time:      454.0
+DeltaPNL:  3.203125
+Position:  -1
+Sold ZN:   -122.046875
+Bought ZF: 118.84375
+
+Time:      501.5
+DeltaPNL:  -3.171875
+Position:  0
+Bought ZN: 122.03125
+Sold ZF:   -118.859375
+
+Time:      502.0
+DeltaPNL:  -3.171875
+Position:  1
+Bought ZN: 122.03125
+Sold ZF:   -118.859375
+
+Time:      508.5
+DeltaPNL:  3.2109375
+Position:  0
+Sold ZN:   -122.109375
+Bought ZF: 118.8984375
+
+Time:      509.0
+DeltaPNL:  3.2109375
+Position:  -1
+Sold ZN:   -122.109375
+Bought ZF: 118.8984375
+
+Time:      530.5
+DeltaPNL:  6.46875
+Position:  -3
+Sold ZN:   -244.25
+Bought ZF: 237.78125
+
+Time:      724.5
+DeltaPNL:  -9.6328125
+Position:  0
+Bought ZN: 366.046875
+Sold ZF:   -356.4140625
+
+The profit for day 6 was: 421
+The profit for the month up to and including today is: 842
+
+
+_________________________________________________________
+Day of month: 9
+Time:      102.5
+DeltaPNL:  -3.15625
+Position:  1
+Bought ZN: 122.046875
+Sold ZF:   -118.890625
+
+Time:      532.5
+DeltaPNL:  3.1875
+Position:  0
+Sold ZN:   -122.15625
+Bought ZF: 118.96875
+
+Time:      533.0
+DeltaPNL:  3.1875
+Position:  -1
+Sold ZN:   -122.15625
+Bought ZF: 118.96875
+
+Time:      709.5
+DeltaPNL:  -3.171875
+Position:  0
+Bought ZN: 122.109375
+Sold ZF:   -118.9375
+
+The profit for day 9 was: 46
+The profit for the month up to and including today is: 888
+
+
+_________________________________________________________
+Day of month: 10
+Time:      46.0
+DeltaPNL:  3.2421875
+Position:  -1
+Sold ZN:   -122.40625
+Bought ZF: 119.1640625
+
+Time:      126.5
+DeltaPNL:  -3.2109375
+Position:  0
+Bought ZN: 122.34375
+Sold ZF:   -119.1328125
+
+Time:      127.0
+DeltaPNL:  -3.2109375
+Position:  1
+Bought ZN: 122.34375
+Sold ZF:   -119.1328125
+
+Time:      315.0
+DeltaPNL:  3.234375
+Position:  0
+Sold ZN:   -122.28125
+Bought ZF: 119.046875
+
+Time:      318.5
+DeltaPNL:  -3.203125
+Position:  1
+Bought ZN: 122.21875
+Sold ZF:   -119.015625
+
+Time:      457.5
+DeltaPNL:  3.2265625
+Position:  0
+Sold ZN:   -122.234375
+Bought ZF: 119.0078125
+
+Time:      458.0
+DeltaPNL:  3.2265625
+Position:  -1
+Sold ZN:   -122.234375
+Bought ZF: 119.0078125
+
+Time:      500.5
+DeltaPNL:  -3.1953125
+Position:  0
+Bought ZN: 122.1875
+Sold ZF:   -118.9921875
+
+Time:      501.0
+DeltaPNL:  -3.1953125
+Position:  1
+Bought ZN: 122.1875
+Sold ZF:   -118.9921875
+
+Time:      603.5
+DeltaPNL:  3.2265625
+Position:  0
+Sold ZN:   -122.25
+Bought ZF: 119.0234375
+
+Time:      604.0
+DeltaPNL:  3.2265625
+Position:  -1
+Sold ZN:   -122.25
+Bought ZF: 119.0234375
+
+Time:      634.5
+DeltaPNL:  6.515625
+Position:  -3
+Sold ZN:   -244.65625
+Bought ZF: 238.140625
+
+Time:      732.5
+DeltaPNL:  -9.65625
+Position:  0
+Bought ZN: 366.84375
+Sold ZF:   -357.1875
+
+The profit for day 10 was: 226
+The profit for the month up to and including today is: 1114
+
+
+_________________________________________________________
+Day of month: 11
+Time:      45.5
+DeltaPNL:  3.125
+Position:  -1
+Sold ZN:   -121.953125
+Bought ZF: 118.828125
+
+Time:      137.5
+DeltaPNL:  -3.09375
+Position:  0
+Bought ZN: 121.921875
+Sold ZF:   -118.828125
+
+Time:      138.0
+DeltaPNL:  -3.09375
+Position:  1
+Bought ZN: 121.921875
+Sold ZF:   -118.828125
+
+Time:      205.5
+DeltaPNL:  3.125
+Position:  0
+Sold ZN:   -121.96875
+Bought ZF: 118.84375
+
+Time:      206.0
+DeltaPNL:  3.125
+Position:  -1
+Sold ZN:   -121.96875
+Bought ZF: 118.84375
+
+Time:      302.5
+DeltaPNL:  -3.0859375
+Position:  0
+Bought ZN: 121.921875
+Sold ZF:   -118.8359375
+
+Time:      303.0
+DeltaPNL:  -3.0859375
+Position:  1
+Bought ZN: 121.921875
+Sold ZF:   -118.8359375
+
+Time:      347.5
+DeltaPNL:  -6.125
+Position:  3
+Bought ZN: 243.71875
+Sold ZF:   -237.59375
+
+Time:      723.5
+DeltaPNL:  9.2578125
+Position:  0
+Sold ZN:   -365.625
+Bought ZF: 356.3671875
+
+The profit for day 11 was: 148
+The profit for the month up to and including today is: 1262
+
+
+_________________________________________________________
+Day of month: 12
+Time:      45.5
+DeltaPNL:  -3.234375
+Position:  1
+Bought ZN: 122.359375
+Sold ZF:   -119.125
+
+Time:      122.5
+DeltaPNL:  3.2734375
+Position:  0
+Sold ZN:   -122.4375
+Bought ZF: 119.1640625
+
+Time:      123.0
+DeltaPNL:  3.2734375
+Position:  -1
+Sold ZN:   -122.4375
+Bought ZF: 119.1640625
+
+Time:      242.5
+DeltaPNL:  -3.25
+Position:  0
+Bought ZN: 122.375
+Sold ZF:   -119.125
+
+Time:      243.0
+DeltaPNL:  -3.25
+Position:  1
+Bought ZN: 122.375
+Sold ZF:   -119.125
+
+Time:      256.5
+DeltaPNL:  3.28125
+Position:  0
+Sold ZN:   -122.421875
+Bought ZF: 119.140625
+
+Time:      257.0
+DeltaPNL:  3.28125
+Position:  -1
+Sold ZN:   -122.421875
+Bought ZF: 119.140625
+
+Time:      312.5
+DeltaPNL:  6.640625
+Position:  -3
+Sold ZN:   -245.0
+Bought ZF: 238.359375
+
+Time:      712.5
+DeltaPNL:  -9.9609375
+Position:  0
+Bought ZN: 367.546875
+Sold ZF:   -357.5859375
+
+The profit for day 12 was: 54
+The profit for the month up to and including today is: 1316
+
+
+_________________________________________________________
+Day of month: 13
+Time:      49.0
+DeltaPNL:  3.171875
+Position:  -1
+Sold ZN:   -122.25
+Bought ZF: 119.078125
+
+Time:      109.5
+DeltaPNL:  -3.140625
+Position:  0
+Bought ZN: 122.203125
+Sold ZF:   -119.0625
+
+Time:      110.0
+DeltaPNL:  -3.140625
+Position:  1
+Bought ZN: 122.203125
+Sold ZF:   -119.0625
+
+Time:      123.5
+DeltaPNL:  3.171875
+Position:  0
+Sold ZN:   -122.25
+Bought ZF: 119.078125
+
+Time:      124.0
+DeltaPNL:  3.171875
+Position:  -1
+Sold ZN:   -122.25
+Bought ZF: 119.078125
+
+Time:      201.5
+DeltaPNL:  -3.1484375
+Position:  0
+Bought ZN: 122.234375
+Sold ZF:   -119.0859375
+
+Time:      202.0
+DeltaPNL:  -3.1484375
+Position:  1
+Bought ZN: 122.234375
+Sold ZF:   -119.0859375
+
+Time:      248.5
+DeltaPNL:  -6.234375
+Position:  3
+Bought ZN: 244.25
+Sold ZF:   -238.015625
+
+Time:      436.5
+DeltaPNL:  9.5390625
+Position:  0
+Sold ZN:   -366.609375
+Bought ZF: 357.0703125
+
+Time:      437.0
+DeltaPNL:  3.1796875
+Position:  -1
+Sold ZN:   -122.203125
+Bought ZF: 119.0234375
+
+Time:      442.5
+DeltaPNL:  -3.140625
+Position:  0
+Bought ZN: 122.140625
+Sold ZF:   -119.0
+
+Time:      443.0
+DeltaPNL:  -3.140625
+Position:  1
+Bought ZN: 122.140625
+Sold ZF:   -119.0
+
+Time:      519.5
+DeltaPNL:  3.1640625
+Position:  0
+Sold ZN:   -122.171875
+Bought ZF: 119.0078125
+
+Time:      520.0
+DeltaPNL:  3.1640625
+Position:  -1
+Sold ZN:   -122.171875
+Bought ZF: 119.0078125
+
+Time:      945.5
+DeltaPNL:  -3.3046875
+Position:  0
+Bought ZN: 122.53125
+Sold ZF:   -119.2265625
+
+The profit for day 13 was: 164
+The profit for the month up to and including today is: 1480
+
+
+_________________________________________________________
+Day of month: 16
+Time:      48.5
+DeltaPNL:  -3.3515625
+Position:  1
+Bought ZN: 122.71875
+Sold ZF:   -119.3671875
+
+Time:      127.5
+DeltaPNL:  3.3828125
+Position:  0
+Sold ZN:   -122.75
+Bought ZF: 119.3671875
+
+Time:      128.0
+DeltaPNL:  3.3828125
+Position:  -1
+Sold ZN:   -122.75
+Bought ZF: 119.3671875
+
+Time:      153.5
+DeltaPNL:  -3.3515625
+Position:  0
+Bought ZN: 122.703125
+Sold ZF:   -119.3515625
+
+Time:      154.0
+DeltaPNL:  -3.3515625
+Position:  1
+Bought ZN: 122.703125
+Sold ZF:   -119.3515625
+
+Time:      234.5
+DeltaPNL:  -6.640625
+Position:  3
+Bought ZN: 245.34375
+Sold ZF:   -238.703125
+
+Time:      545.5
+DeltaPNL:  10.1015625
+Position:  0
+Sold ZN:   -368.25
+Bought ZF: 358.1484375
+
+Time:      546.0
+DeltaPNL:  3.3671875
+Position:  -1
+Sold ZN:   -122.75
+Bought ZF: 119.3828125
+
+Time:      716.5
+DeltaPNL:  -3.34375
+Position:  0
+Bought ZN: 122.625
+Sold ZF:   -119.28125
+
+The profit for day 16 was: 195
+The profit for the month up to and including today is: 1675
+
+
+_________________________________________________________
+Day of month: 17
+Time:      45.5
+DeltaPNL:  -3.3359375
+Position:  1
+Bought ZN: 122.71875
+Sold ZF:   -119.3828125
+
+Time:      154.0
+DeltaPNL:  -6.59375
+Position:  3
+Bought ZN: 245.25
+Sold ZF:   -238.65625
+
+Time:      629.5
+DeltaPNL:  9.9609375
+Position:  0
+Sold ZN:   -368.203125
+Bought ZF: 358.2421875
+
+Time:      630.0
+DeltaPNL:  3.3203125
+Position:  -1
+Sold ZN:   -122.734375
+Bought ZF: 119.4140625
+
+Time:      945.5
+DeltaPNL:  -3.453125
+Position:  0
+Bought ZN: 123.015625
+Sold ZF:   -119.5625
+
+The profit for day 17 was: -101
+The profit for the month up to and including today is: 1574
+
+
+_________________________________________________________
+Day of month: 18
+Time:      112.5
+DeltaPNL:  -3.375
+Position:  1
+Bought ZN: 122.84375
+Sold ZF:   -119.46875
+
+Time:      136.5
+DeltaPNL:  3.40625
+Position:  0
+Sold ZN:   -122.90625
+Bought ZF: 119.5
+
+Time:      137.0
+DeltaPNL:  3.40625
+Position:  -1
+Sold ZN:   -122.90625
+Bought ZF: 119.5
+
+Time:      433.5
+DeltaPNL:  6.890625
+Position:  -3
+Sold ZN:   -245.96875
+Bought ZF: 239.078125
+
+Time:      812.5
+DeltaPNL:  -10.359375
+Position:  0
+Bought ZN: 368.625
+Sold ZF:   -358.265625
+
+The profit for day 18 was: -31
+The profit for the month up to and including today is: 1543
+
+
+_________________________________________________________
+Day of month: 19
+Time:      108.5
+DeltaPNL:  3.25
+Position:  -1
+Sold ZN:   -122.453125
+Bought ZF: 119.203125
+
+Time:      135.5
+DeltaPNL:  -3.21875
+Position:  0
+Bought ZN: 122.390625
+Sold ZF:   -119.171875
+
+Time:      142.5
+DeltaPNL:  -3.21875
+Position:  1
+Bought ZN: 122.359375
+Sold ZF:   -119.140625
+
+Time:      239.5
+DeltaPNL:  3.25
+Position:  0
+Sold ZN:   -122.4375
+Bought ZF: 119.1875
+
+Time:      240.0
+DeltaPNL:  3.25
+Position:  -1
+Sold ZN:   -122.4375
+Bought ZF: 119.1875
+
+Time:      330.5
+DeltaPNL:  -3.21875
+Position:  0
+Bought ZN: 122.375
+Sold ZF:   -119.15625
+
+Time:      331.0
+DeltaPNL:  -3.21875
+Position:  1
+Bought ZN: 122.375
+Sold ZF:   -119.15625
+
+Time:      349.5
+DeltaPNL:  3.25
+Position:  0
+Sold ZN:   -122.421875
+Bought ZF: 119.171875
+
+Time:      350.0
+DeltaPNL:  3.25
+Position:  -1
+Sold ZN:   -122.421875
+Bought ZF: 119.171875
+
+Time:      415.5
+DeltaPNL:  -3.21875
+Position:  0
+Bought ZN: 122.375
+Sold ZF:   -119.15625
+
+Time:      416.0
+DeltaPNL:  -3.21875
+Position:  1
+Bought ZN: 122.375
+Sold ZF:   -119.15625
+
+Time:      452.5
+DeltaPNL:  -6.375
+Position:  3
+Bought ZN: 244.5625
+Sold ZF:   -238.1875
+
+Time:      945.5
+DeltaPNL:  9.46875
+Position:  0
+Sold ZN:   -366.796875
+Bought ZF: 357.328125
+
+The profit for day 19 was: 31
+The profit for the month up to and including today is: 1574
+
+
+_________________________________________________________
+Day of month: 20
+Time:      46.0
+DeltaPNL:  3.25
+Position:  -1
+Sold ZN:   -122.609375
+Bought ZF: 119.359375
+
+Time:      130.0
+DeltaPNL:  -3.234375
+Position:  0
+Bought ZN: 122.5625
+Sold ZF:   -119.328125
+
+Time:      130.5
+DeltaPNL:  -3.21875
+Position:  1
+Bought ZN: 122.546875
+Sold ZF:   -119.328125
+
+Time:      212.5
+DeltaPNL:  3.25
+Position:  0
+Sold ZN:   -122.625
+Bought ZF: 119.375
+
+Time:      213.0
+DeltaPNL:  3.25
+Position:  -1
+Sold ZN:   -122.625
+Bought ZF: 119.375
+
+Time:      224.5
+DeltaPNL:  -3.21875
+Position:  0
+Bought ZN: 122.578125
+Sold ZF:   -119.359375
+
+Time:      225.0
+DeltaPNL:  -3.21875
+Position:  1
+Bought ZN: 122.578125
+Sold ZF:   -119.359375
+
+Time:      327.5
+DeltaPNL:  3.25
+Position:  0
+Sold ZN:   -122.625
+Bought ZF: 119.375
+
+Time:      328.0
+DeltaPNL:  3.25
+Position:  -1
+Sold ZN:   -122.625
+Bought ZF: 119.375
+
+Time:      334.5
+DeltaPNL:  -3.2109375
+Position:  0
+Bought ZN: 122.578125
+Sold ZF:   -119.3671875
+
+Time:      335.0
+DeltaPNL:  -3.2109375
+Position:  1
+Bought ZN: 122.578125
+Sold ZF:   -119.3671875
+
+Time:      433.5
+DeltaPNL:  3.25
+Position:  0
+Sold ZN:   -122.65625
+Bought ZF: 119.40625
+
+Time:      434.0
+DeltaPNL:  3.25
+Position:  -1
+Sold ZN:   -122.65625
+Bought ZF: 119.40625
+
+Time:      511.5
+DeltaPNL:  6.5625
+Position:  -3
+Sold ZN:   -245.40625
+Bought ZF: 238.84375
+
+Time:      751.5
+DeltaPNL:  -9.796875
+Position:  0
+Bought ZN: 367.96875
+Sold ZF:   -358.171875
+
+The profit for day 20 was: 203
+The profit for the month up to and including today is: 1777
+
+
+_________________________________________________________
+Day of month: 23
+Time:      45.5
+DeltaPNL:  3.4375
+Position:  -1
+Sold ZN:   -123.0625
+Bought ZF: 119.625
+
+Time:      114.0
+DeltaPNL:  6.953125
+Position:  -3
+Sold ZN:   -246.28125
+Bought ZF: 239.328125
+
+Time:      641.5
+DeltaPNL:  -10.453125
+Position:  0
+Bought ZN: 369.609375
+Sold ZF:   -359.15625
+
+Time:      642.0
+DeltaPNL:  -3.484375
+Position:  1
+Bought ZN: 123.203125
+Sold ZF:   -119.71875
+
+Time:      704.5
+DeltaPNL:  3.53125
+Position:  0
+Sold ZN:   -123.296875
+Bought ZF: 119.765625
+
+The profit for day 23 was: -15
+The profit for the month up to and including today is: 1762
+
+
+_________________________________________________________
+Day of month: 24
+Time:      46.5
+DeltaPNL:  3.4921875
+Position:  -1
+Sold ZN:   -123.03125
+Bought ZF: 119.5390625
+
+Time:      205.5
+DeltaPNL:  -3.46875
+Position:  0
+Bought ZN: 122.984375
+Sold ZF:   -119.515625
+
+Time:      206.0
+DeltaPNL:  -3.46875
+Position:  1
+Bought ZN: 122.984375
+Sold ZF:   -119.515625
+
+Time:      318.5
+DeltaPNL:  3.4921875
+Position:  0
+Sold ZN:   -122.984375
+Bought ZF: 119.4921875
+
+Time:      319.0
+DeltaPNL:  3.4921875
+Position:  -1
+Sold ZN:   -122.984375
+Bought ZF: 119.4921875
+
+Time:      333.5
+DeltaPNL:  -3.4609375
+Position:  0
+Bought ZN: 122.921875
+Sold ZF:   -119.4609375
+
+Time:      334.0
+DeltaPNL:  -3.4609375
+Position:  1
+Bought ZN: 122.921875
+Sold ZF:   -119.4609375
+
+Time:      426.5
+DeltaPNL:  -6.859375
+Position:  3
+Bought ZN: 245.75
+Sold ZF:   -238.890625
+
+Time:      547.5
+DeltaPNL:  10.453125
+Position:  0
+Sold ZN:   -369.046875
+Bought ZF: 358.59375
+
+Time:      548.0
+DeltaPNL:  3.484375
+Position:  -1
+Sold ZN:   -123.015625
+Bought ZF: 119.53125
+
+Time:      554.5
+DeltaPNL:  -3.453125
+Position:  0
+Bought ZN: 122.984375
+Sold ZF:   -119.53125
+
+Time:      555.0
+DeltaPNL:  -3.453125
+Position:  1
+Bought ZN: 122.984375
+Sold ZF:   -119.53125
+
+Time:      652.0
+DeltaPNL:  -6.84375
+Position:  3
+Bought ZN: 245.78125
+Sold ZF:   -238.9375
+
+Time:      945.5
+DeltaPNL:  10.3125
+Position:  0
+Sold ZN:   -368.8125
+Bought ZF: 358.5
+
+The profit for day 24 was: 257
+The profit for the month up to and including today is: 2019
+
+
+_________________________________________________________
+Day of month: 25
+Time:      45.5
+DeltaPNL:  3.5625
+Position:  -1
+Sold ZN:   -123.296875
+Bought ZF: 119.734375
+
+Time:      209.5
+DeltaPNL:  -3.5234375
+Position:  0
+Bought ZN: 123.234375
+Sold ZF:   -119.7109375
+
+Time:      210.0
+DeltaPNL:  -3.5234375
+Position:  1
+Bought ZN: 123.234375
+Sold ZF:   -119.7109375
+
+Time:      226.5
+DeltaPNL:  3.5546875
+Position:  0
+Sold ZN:   -123.28125
+Bought ZF: 119.7265625
+
+Time:      227.0
+DeltaPNL:  3.5546875
+Position:  -1
+Sold ZN:   -123.28125
+Bought ZF: 119.7265625
+
+Time:      233.0
+DeltaPNL:  -3.53125
+Position:  0
+Bought ZN: 123.25
+Sold ZF:   -119.71875
+
+Time:      240.5
+DeltaPNL:  -3.53125
+Position:  1
+Bought ZN: 123.234375
+Sold ZF:   -119.703125
+
+Time:      404.0
+DeltaPNL:  -6.984375
+Position:  3
+Bought ZN: 246.3125
+Sold ZF:   -239.328125
+
+Time:      814.5
+DeltaPNL:  10.5703125
+Position:  0
+Sold ZN:   -369.609375
+Bought ZF: 359.0390625
+
+The profit for day 25 was: 148
+The profit for the month up to and including today is: 2167
+
+
+_________________________________________________________
+Day of month: 26
+Time:      45.5
+DeltaPNL:  -3.3359375
+Position:  1
+Bought ZN: 122.9375
+Sold ZF:   -119.6015625
+
+Time:      204.5
+DeltaPNL:  -6.609375
+Position:  3
+Bought ZN: 245.78125
+Sold ZF:   -239.171875
+
+Time:      333.5
+DeltaPNL:  10.1015625
+Position:  0
+Sold ZN:   -369.046875
+Bought ZF: 358.9453125
+
+Time:      334.0
+DeltaPNL:  3.3671875
+Position:  -1
+Sold ZN:   -123.015625
+Bought ZF: 119.6484375
+
+Time:      426.5
+DeltaPNL:  6.796875
+Position:  -3
+Sold ZN:   -246.09375
+Bought ZF: 239.296875
+
+Time:      945.5
+DeltaPNL:  -10.7578125
+Position:  0
+Bought ZN: 370.640625
+Sold ZF:   -359.8828125
+
+The profit for day 26 was: -437
+The profit for the month up to and including today is: 1730
+
+
+_________________________________________________________
+Day of month: 27
+Time:      45.5
+DeltaPNL:  3.703125
+Position:  -1
+Sold ZN:   -123.8125
+Bought ZF: 120.109375
+
+Time:      106.5
+DeltaPNL:  -3.671875
+Position:  0
+Bought ZN: 123.765625
+Sold ZF:   -120.09375
+
+Time:      107.0
+DeltaPNL:  -3.671875
+Position:  1
+Bought ZN: 123.765625
+Sold ZF:   -120.09375
+
+Time:      134.5
+DeltaPNL:  3.703125
+Position:  0
+Sold ZN:   -123.796875
+Bought ZF: 120.09375
+
+Time:      135.0
+DeltaPNL:  3.703125
+Position:  -1
+Sold ZN:   -123.796875
+Bought ZF: 120.09375
+
+Time:      204.0
+DeltaPNL:  -3.6640625
+Position:  0
+Bought ZN: 123.71875
+Sold ZF:   -120.0546875
+
+Time:      207.5
+DeltaPNL:  -3.6640625
+Position:  1
+Bought ZN: 123.703125
+Sold ZF:   -120.0390625
+
+Time:      349.5
+DeltaPNL:  3.6953125
+Position:  0
+Sold ZN:   -123.796875
+Bought ZF: 120.1015625
+
+Time:      350.0
+DeltaPNL:  3.6953125
+Position:  -1
+Sold ZN:   -123.796875
+Bought ZF: 120.1015625
+
+Time:      609.5
+DeltaPNL:  -3.671875
+Position:  0
+Bought ZN: 123.75
+Sold ZF:   -120.078125
+
+Time:      610.0
+DeltaPNL:  -3.671875
+Position:  1
+Bought ZN: 123.75
+Sold ZF:   -120.078125
+
+Time:      859.5
+DeltaPNL:  3.6875
+Position:  0
+Sold ZN:   -123.78125
+Bought ZF: 120.09375
+
+The profit for day 27 was: 171
+The profit for the month up to and including today is: 1901
+
+
+_________________________________________________________
+Day of month: 30
+Time:      46.5
+DeltaPNL:  3.7265625
+Position:  -1
+Sold ZN:   -123.984375
+Bought ZF: 120.2578125
+
+Time:      133.0
+DeltaPNL:  -3.6875
+Position:  0
+Bought ZN: 123.9375
+Sold ZF:   -120.25
+
+Time:      136.0
+DeltaPNL:  -3.703125
+Position:  1
+Bought ZN: 123.953125
+Sold ZF:   -120.25
+
+Time:      145.5
+DeltaPNL:  3.7265625
+Position:  0
+Sold ZN:   -123.984375
+Bought ZF: 120.2578125
+
+Time:      146.0
+DeltaPNL:  3.7265625
+Position:  -1
+Sold ZN:   -123.984375
+Bought ZF: 120.2578125
+
+Time:      212.5
+DeltaPNL:  -3.6875
+Position:  0
+Bought ZN: 123.921875
+Sold ZF:   -120.234375
+
+Time:      213.0
+DeltaPNL:  -3.6875
+Position:  1
+Bought ZN: 123.921875
+Sold ZF:   -120.234375
+
+Time:      729.5
+DeltaPNL:  3.7109375
+Position:  0
+Sold ZN:   -123.96875
+Bought ZF: 120.2578125
+
+The profit for day 30 was: 125
+The profit for the month up to and including today is: 2026
+
+
+_________________________________________________________
+Day of month: 31
+Time:      53.5
+DeltaPNL:  3.703125
+Position:  -1
+Sold ZN:   -123.734375
+Bought ZF: 120.03125
+
+Time:      106.5
+DeltaPNL:  -3.671875
+Position:  0
+Bought ZN: 123.6875
+Sold ZF:   -120.015625
+
+Time:      107.0
+DeltaPNL:  -3.671875
+Position:  1
+Bought ZN: 123.6875
+Sold ZF:   -120.015625
+
+Time:      234.5
+DeltaPNL:  -7.265625
+Position:  3
+Bought ZN: 247.1875
+Sold ZF:   -239.921875
+
+Time:      712.5
+DeltaPNL:  10.9453125
+Position:  0
+Sold ZN:   -371.109375
+Bought ZF: 360.1640625
+
+The profit for day 31 was: 39
+The profit for the month up to and including today is: 2065
+
+
+_________________________________________________________
+Final PNL: 2065

@@ -1,0 +1,58 @@
+Shawn Stevens
+Final Project
+Programming Language: JAVA
+
+Analyzed old overnight treasury futures data to test viability of automation of a 
+Martingale strategy being traded by hand. As expected, the basic strategy lost 
+about $100/day. Surprisingly, the Martingale strategy was profitable (~$100/day)
+even without a complex exit strategy. This makes sense as a trader was making money
+by hand using this strategy and said that he would exit all trades over a certain
+threshold of losses.   
+
+My final project uses a pipes and filters pattern to convert and organize market 
+data from two different treasury futures contracts, the five year (ZF) and the 
+ten year (ZN). The two different files are sorted in parallel pipes and filters
+and then combined together in the last filter which sorts the data from both
+pipes so that all the data coming out of the filter is time ascending. That is,
+the final filter sorts the data by time. The pipes and filters are a pure pull
+architecture.
+
+Each individual line of market data is placed in a TradeData object in the first 
+filter (if it conforms to a few checks). Time is in term of a double. 0-59 = 
+first hour, 100-159 = second hour, .5 = end of a minute, .0 = begining of a 
+minute. All data is from May 2011, so date is 1-31 (Saturdays omitted). The 
+second filter throws out all data not occurring at the beginning or end of each 
+minute. This is so that the 5 and 10 year data is synchronized coming out of the
+pipe. 
+
+The relationship between all the pipes and filters is a bit hard to follow, so I
+used a facade pattern to create a simple interface to setup and interact with the
+pipes and filters.
+
+The pricing engine takes all tradeData occurring at a discrete point in time:
+beginning (.0) or end (.05) of a minute and calculates the current spreadAvg
+as well as the Simple Moving Average (SMA) of the spread for the last 3 hours.
+
+The pricing engine executes trade strategies between the times of 12:45AM 
+(45.0) and 10:15AM (1015). As the trading period progresses the strategy becomes 
+more conservative. The initial strategy (12:45AM-7AM) allows the user discretion 
+on aggressiveness. From 7:00-9:45AM, the conservative strategy only tries to 
+reduce position. From 9:45-10:15AM, the flat strategy merely tries to exit 
+(happens at first price update). 
+
+The strategies and pricing engine both access/interact with the singleton 
+PositionManager which logs/records trades as well as keeping track of position.
+The strategies use the pricing engine to determine when to trade and how much to
+trade.
+
+The mediator package contains PriceQueueMediator that implements the Mediator 
+interface. This interface allows the PipesAndFiltersFacade to register the final
+filter with the the PriceQueueMediator. PricingEngine also register with mediator.
+The mediator pulls synchronized data from the PipesAndFiltersFacade in increments
+of a 1000 and then pushes all data occurring in a discrete time period to the 
+PricingEngine (using as many calls of the update method as necessary) and then
+has the PricingEngine process all new data using the processData method. 
+
+The data is in treasury.tar.gz. It should be unzipped and placed in the home 
+directory of the program. There are two different files for analyzing the data.
+RunAnalysis.java analyzes the two files with less data and thus runs faster.
