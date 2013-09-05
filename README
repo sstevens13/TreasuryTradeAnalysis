@@ -4,7 +4,7 @@ Programming Language: JAVA
 
 Analyzed old overnight treasury futures data to test viability of automation of a 
 Martingale strategy being traded by hand. As expected, the basic strategy lost 
-about $100/day. Surprisingly, the Martingale strategy was profitable (~$100/day)
+about ~$100/day. Surprisingly, the Martingale strategy was profitable (~$100/day)
 even without a complex exit strategy. This makes sense as a trader was making money
 by hand using this strategy and said that he would exit all trades over a certain
 threshold of losses.   
